@@ -1,0 +1,5 @@
+{
+  "name": "Copy of China HSR Time-Space Map",
+  "description": "An interactive visualization transforming the map of Chinese provincial capitals based on High-Speed Rail travel times using Gemini API for data estimation.",
+  "requestFramePermissions": []
+}
